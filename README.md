@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jhoscar22/Jhoscar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a Border Collie.
 -->
 
-My name is Oscar, and I am currently studyng **Computer Engineering Technologies** at the **ITESM** in Guadalajara, Jalisco. In college I have collaborated on a _React-Native_ app, a website made with _React_ and _Node.js_, and made a server-request monitoring system in _C++_, to name a few. On my free time I like to learn new skills, such as Machine Learning with _Python_ or _SwiftUI_, _PHP_ and _Shell_ scripting. Working as an **Analyst Programmer Intern** at _Bruscoo Venture Builder_ I code _PineScript_ scripts for backtesting trading strategies and I also code bots which signal the appropiate time to place orders according to the strategy rules and the data provided by multiple _APIs_. On a personal level I have implemented and trained small ML models and made a non-published website. Some fun facts about me are that I have a Border Collie with whom I like to play and that I really enjoy building with legos.
+![image](https://github.com/Jhoscar22/Jhoscar22/assets/68628848/e9c5ea94-622f-4b8e-8aa3-dee89ebe84c9)
 
-I am looking for a job as a React Native os iOS software developer.
+
+<h2>About Me</h2>
+
+<p align="justify">
+My name is Oscar, and I am currently studying Computer Science and Technology at ITESM in Guadalajara, Jalisco. In college I have collaborated on a React-Native app, a website made with React and Next.js, and a Vehicular traffic simulation with a Python server and Unity client (and some other coll stuff, take a look!). I worked for 6 months as an Analyst Programmer Intern at Bruscoo Venture Builder, where I coded PineScript scripts and implemented some bots using Node.js and APIs.
+</p>
+<p align="justify">
+As part of my personal projects I have implemented and trained small ML models and am currently developing a Soccer Tournament App. On my free time I play with my Border Collie and Yorkie, I also enjoy building with legos and learning new concepts or skills. I will be attending an international exchange programme at Aschaffenburg this fall, but I will be pleased to take a job as a software developer in the meanwhile or as soon as I come back.
+</p>
+<h2> <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> Skills  </h2>
+
+<p>
+    <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,html,css,js,py,mysql,figma,firebase,git,nodejs,react,unity,vscode" />
+</p>
